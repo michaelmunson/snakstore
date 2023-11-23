@@ -1,0 +1,23 @@
+{
+  "name": "keystore",
+  "version": "1.0.0",
+  "description": "Keystore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelmunson/keystore"
+  },
+  "author": "Michael Munson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelmunson/keystore/issues"
+  },
+  "homepage": "https://github.com/michaelmunson/keystore#readme",
+  "dependencies": {
+    "escprint": "^1.0.2"
+  }
+}
