@@ -1,4 +1,5 @@
-# Local Key Store
+# Snakstore
+Local password manager
 
 ## Initializing Key Store
 ```bash

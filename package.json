@@ -1,7 +1,7 @@
 {
-  "name": "keystore",
+  "name": "snakstore",
   "version": "1.0.0",
-  "description": "Keystore",
+  "description": "snakstore",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelmunson/keystore"
+    "url": "git+https://github.com/michaelmunson/snakstore"
   },
   "author": "Michael Munson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaelmunson/keystore/issues"
+    "url": "https://github.com/michaelmunson/snakstore/issues"
   },
-  "homepage": "https://github.com/michaelmunson/keystore#readme",
+  "homepage": "https://github.com/michaelmunson/snakstore#readme",
   "dependencies": {
     "escprint": "^1.0.2"
   }
